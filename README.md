@@ -1,1 +1,1 @@
-# Advent_of_code24
+# Repository for Advent of Code Solutions 2024
